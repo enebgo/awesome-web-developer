@@ -3,10 +3,61 @@
 # Table of Contents
 - [Web Basics](#web-basics)
   - [The Internet in a Nutshell](#the-internet-in-a-nutshell)
+    - [Key Components](#key-components)
+    - [Key Concepts](#key-concepts)
+      - [1. IP Address](#1-ip-address)
+      - [2. Domain](#2-domain)
+      - [3. URL (Uniform Resource Locator)](#3-url-uniform-resource-locator)
+      - [4. Protocol](#4-protocol)
+      - [5. DNS (Domain Name System)](#5-dns-domain-name-system)
   - [The World Wide Web](#the-world-wide-web)
+    - [Key Components of the Web](#key-components-of-the-web)
+    - [Evolution of the Web](#evolution-of-the-web)
+      - [Web 1.0 (1989-2004)](#web-10-1989-2004)
+      - [Web 2.0 (2004-2014)](#web-20-2004-2014)
+      - [Web 3.0 (2014-present)](#web-30-2014-present)
+    - [The Difference Between the World Wide Web and the Internet](#the-difference-between-the-world-wide-web-and-the-internet)
+      - [The Internet](#the-internet)
+      - [The World Wide Web](#the-world-wide-web-1)
   - [Web Browser Architecture](#web-browser-architecture)
+    - [Core Components of a Web Browser](#core-components-of-a-web-browser)
+    - [Browser and Rendering Engines](#browser-and-rendering-engines)
+    - [JavaScript Engines](#javascript-engines)
+    - [The Relationship Between Engines](#the-relationship-between-engines)
+    - [Impact on Web Development](#impact-on-web-development)
+      - [The Trend Towards Engine Consolidation](#the-trend-towards-engine-consolidation)
+      - [Staying Informed](#staying-informed)
   - [Web Standards: The Foundation of the Web](#web-standards-the-foundation-of-the-web)
+    - [What Are Web Standards?](#what-are-web-standards)
+    - [Key Organizations in Web Standards](#key-organizations-in-web-standards)
+    - [Core Web Standards](#core-web-standards)
+      - [1. HTML (HyperText Markup Language)](#1-html-hypertext-markup-language)
+      - [2. CSS (Cascading Style Sheets)](#2-css-cascading-style-sheets)
+      - [3. JavaScript (ECMAScript)](#3-javascript-ecmascript)
+      - [4. Web APIs](#4-web-apis)
+    - [Protocols and Data Formats](#protocols-and-data-formats)
+    - [Why Web Standards Matter](#why-web-standards-matter)
+    - [Challenges in Web Standards](#challenges-in-web-standards)
+    - [Best Practices for Developers](#best-practices-for-developers)
   - [Web Hosting: Bringing Your Website to Life](#web-hosting-bringing-your-website-to-life)
+    - [What is Web Hosting?](#what-is-web-hosting)
+    - [How Web Hosting Works](#how-web-hosting-works)
+    - [Types of Web Hosting](#types-of-web-hosting)
+      - [1. Shared Hosting](#1-shared-hosting)
+      - [2. Virtual Private Server (VPS) Hosting](#2-virtual-private-server-vps-hosting)
+      - [3. Dedicated Server Hosting](#3-dedicated-server-hosting)
+      - [4. Cloud Hosting](#4-cloud-hosting)
+      - [5. Managed WordPress Hosting](#5-managed-wordpress-hosting)
+    - [Key Features to Consider](#key-features-to-consider)
+    - [Popular Web Hosting Providers](#popular-web-hosting-providers)
+    - [Domain Names and DNS](#domain-names-and-dns)
+    - [Deployment and File Transfer](#deployment-and-file-transfer)
+    - [Advanced Hosting Concepts](#advanced-hosting-concepts)
+      - [Static File Hosting](#static-file-hosting)
+      - [Nginx Web Server](#nginx-web-server)
+      - [Load Balancing](#load-balancing)
+      - [Content Delivery Networks (CDNs)](#content-delivery-networks-cdns)
+      - [Containerization and Orchestration](#containerization-and-orchestration)
 
 ## Web Basics
 ### The Internet in a Nutshell
@@ -225,14 +276,14 @@ It's important to note that rendering engines and JavaScript engines work togeth
 
 5. **Progressive Enhancement**: Knowing the capabilities of different engines helps in implementing graceful fallbacks for unsupported features.
 
-#### The Trend Towards Engine Consolidation
+##### The Trend Towards Engine Consolidation
 
 In recent years, there's been a trend towards consolidation in the browser engine landscape, with many browsers adopting Blink and V8:
 
 - **Benefits**: More consistent rendering and JavaScript behavior across many browsers, potentially simplifying development and testing.
 - **Concerns**: Reduced diversity in the browser ecosystem, which some argue could lead to a single entity having too much influence over web standards.
 
-#### Staying Informed
+##### Staying Informed
 
 As a web developer, it's crucial to stay updated on the latest developments in browser engines:
 
