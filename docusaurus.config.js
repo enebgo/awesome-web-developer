@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Awesome Web Developer',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'A place holder for tagline',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -104,8 +104,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Web Basics',
+                to: '/docs/web-basics/the-internet-in-a-nut-shell',
               },
             ],
           },
