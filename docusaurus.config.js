@@ -24,7 +24,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'enebgo', // Usually your GitHub org/user name.
   projectName: 'awesome-web-developer', // Usually your repo name.
-  deploymentBranch: "docusaurus-impl",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -85,9 +84,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'webBasicsSidebar',
+            sidebarId: 'webSidebar',
             position: 'left',
-            label: 'Web Basics',
+            label: 'Web Development',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -104,8 +103,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Web Basics',
-                to: '/docs/web-basics/the-internet-in-a-nut-shell',
+                label: 'Web Development',
+                to: '/docs/category/web-basics',
               },
             ],
           },
