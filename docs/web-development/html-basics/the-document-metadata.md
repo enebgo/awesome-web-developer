@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: The <html> element is the root element of an HTML page. It encapsulates all other elements and tells the browser that this is an HTML document.
 ---
 
 # The Document Metadata
