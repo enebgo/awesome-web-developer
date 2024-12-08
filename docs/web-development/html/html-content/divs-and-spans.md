@@ -1,5 +1,6 @@
 ---
-sidebar_position: 8
+sidebar_position: 5
+description: <div> and <span> are two of the most commonly used HTML elements for structuring and grouping content. While they don't have any inherent semantic meaning, they are crucial for layout and styling purposes.
 ---
 
 # Divs and Spans
