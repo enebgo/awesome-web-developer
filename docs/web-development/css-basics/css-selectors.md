@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# CSS Selectors: Targeting Elements with Precision
+# CSS Selectors
 
 CSS selectors are patterns used to select and style HTML elements. They are fundamental to applying styles in CSS, allowing you to target specific elements or groups of elements with great precision.
 

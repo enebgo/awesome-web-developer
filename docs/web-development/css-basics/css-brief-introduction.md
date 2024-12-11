@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# CSS Brief Intro: Styling Your Pages
+# CSS Brief Introduction
 
 ## What is CSS?
 

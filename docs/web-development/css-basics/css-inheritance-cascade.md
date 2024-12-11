@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# CSS Inheritance: Understanding the Cascade
+# CSS Inheritance Cascade
 
 CSS inheritance is a fundamental concept in web design that allows child elements to inherit styles from their parent elements. This powerful feature helps maintain consistency in your design and reduces the amount of code you need to write.
 

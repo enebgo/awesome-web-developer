@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# CSS Colors: the Color Types and Units
+# CSS Color Types and Units
 
 Colors are a fundamental aspect of web design. In CSS, there are several ways to specify colors, each with its own advantages.
 
