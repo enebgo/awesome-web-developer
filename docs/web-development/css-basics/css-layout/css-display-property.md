@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# CSS Display Property: Controlling Element Rendering
+# CSS Display Property
 
 The `display` property is one of the most important CSS properties for controlling layout. It determines how an element should be rendered in the document flow and how it interacts with other elements.
 

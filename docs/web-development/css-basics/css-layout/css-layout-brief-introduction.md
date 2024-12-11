@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# CSS Layout: A Brief Introduction
+# CSS Layout Brief Introduction
 
 CSS (Cascading Style Sheets) layout is a fundamental aspect of web design that governs how elements are positioned and displayed on a web page. At its core, CSS layout is about controlling the placement and arrangement of HTML elements to create visually appealing and functional web designs.
 

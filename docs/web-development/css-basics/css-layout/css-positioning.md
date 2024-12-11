@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# CSS Positioning: Elements Placement
+# CSS Positioning
 
 CSS positioning is a fundamental concept that allows developers to control the layout and placement of elements on a web page. It provides various methods to manipulate the position of an element relative to its normal position in the document flow, other elements, or the viewport.
 

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# CSS Grid: Two-Dimensional Layout
+# CSS Grid
 
 CSS Grid Layout is a two-dimensional layout system for the web, allowing you to layout content in rows and columns. It offers a level of control that's perfect for creating complex layouts and managing the alignment and sizing of website elements and content.
 
